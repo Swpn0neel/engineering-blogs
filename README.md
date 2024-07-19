@@ -151,6 +151,7 @@
 
 #### K companies
 * Khan Academy http://engineering.khanacademy.org
+* Keploy https://keploy.io/blog/technology
 * Kinvolk https://kinvolk.io/blog/
 * Kogan.com https://devblog.kogan.com/
 * Kolosek https://kolosek.com/blog/
